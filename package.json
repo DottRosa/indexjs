@@ -1,0 +1,32 @@
+{
+  "name": "index",
+  "version": "0.1",
+  "description": "descrizione",
+  "main": "index.js",
+  "bin": {
+    "nomelibreria": "bin/cmd.js"
+  },
+    
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/substack/node-browserify.git"
+  },
+    
+  "keywords": [
+    "index",
+    "menu",
+    "bundle",
+    "npm",
+    "javascript"
+  ],
+    
+  "author": {
+    "name": "Eleonora Macuglia, Marco Rosa",
+    "email": "nostreemail",
+    "url": "nostrilinkedin"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "license": "licenze"
+}
