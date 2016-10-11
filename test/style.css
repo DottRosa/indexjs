@@ -1,0 +1,55 @@
+@import 'https://fonts.googleapis.com/css?family=Arima+Madurai:300';
+
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Arima Madurai', Cursive;
+}
+
+p{
+    font-size:15pt;
+}
+
+#esito{
+    position:fixed;
+}
+
+
+aside{
+    position:fixed;
+    right:100px;
+}
+
+li{
+    list-style-type:none;
+}
+
+article{
+    width:60%;
+    margin:50px auto 0 auto;
+}
+
+.color{
+    background-color: navy;
+    color:white;
+}
+
+h1{
+    position:absolute;
+    position:fixed;
+    right:20px;
+    display:block;
+    padding:5px;
+}
+
+#h1_1{
+    bottom:200px;
+}
+
+#h1_2{
+    bottom:150px;
+}
+
+#h1_3{
+    bottom:100px;
+}
